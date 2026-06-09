@@ -19,7 +19,7 @@ python calculator_gui.py
 
 ## Screenshot
 
-![Calculator](screenshots/calculator.png)
+![Calculator](https://github.com/kunalyadav-2000/calculator-app/blob/71518f498c70e3f1be05562f84bd602575a0140c/Screenshots/calculator.png)
 
 ## Author
 
