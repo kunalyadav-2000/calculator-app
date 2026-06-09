@@ -1,6 +1,6 @@
 # Calculator App
 
-A simple calculator built with Python.
+A GUI calculator built with Python and Tkinter.
 
 ## Features
 
@@ -8,13 +8,18 @@ A simple calculator built with Python.
 - Subtraction
 - Multiplication
 - Division
-- Error handling for division by zero
+- Clear button
+- Simple GUI
 
 ## Run
 
 ```bash
-python calculator.py
+python calculator_gui.py
 ```
+
+## Screenshot
+
+![Calculator](screenshots/calculator.png)
 
 ## Author
 
